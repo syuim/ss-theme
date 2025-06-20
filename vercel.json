@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "src": "/json/stats.json",
+      "dest": "https://tz.laoz.org/json/stats.json"
+    },
+    {
+      "src": "/detail",
+      "dest": "https://tz.laoz.org/detail"
+    },
+    {
+      "src": "/map",
+      "dest": "https://tz.laoz.org/map"
+    },
+    {
+      "src": "/i",
+      "dest": "https://tz.laoz.org/i"
+    }
+  ]
+}
