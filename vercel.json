@@ -2,19 +2,19 @@
   "routes": [
     {
       "src": "/json/stats.json",
-      "dest": "https://tz.laoz.org/json/stats.json"
+      "dest": "http://cnf.127315.xyz:8080/json/stats.json"
     },
     {
       "src": "/detail",
-      "dest": "https://tz.laoz.org/detail"
+      "dest": "http://cnf.127315.xyz:8080/detail"
     },
     {
       "src": "/map",
-      "dest": "https://tz.laoz.org/map"
+      "dest": "http://cnf.127315.xyz:8080/map"
     },
     {
       "src": "/i",
-      "dest": "https://tz.laoz.org/i"
+      "dest": "http://cnf.127315.xyz:8080/i"
     }
   ]
 }
